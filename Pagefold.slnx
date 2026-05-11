@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Pagefold.App/Pagefold.App.csproj" />
+  <Project Path="Pagefold.Core/Pagefold.Core.csproj" />
+  <Project Path="Pagefold.Tests/Pagefold.Tests.csproj" />
+</Solution>
